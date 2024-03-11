@@ -20,7 +20,7 @@ int main()
 			scanf("%d",&numApostado);
 			if( numApostado > 50)
 			{
-				printf("\n Erro, escolha o numero no intervalo sugerido");
+				printf("\n Erro escolha o numero no intervalo sugerido");
 				continue;
 			}	
 			else if( numApostado < 1)	
